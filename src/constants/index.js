@@ -27,7 +27,7 @@ export const myProjects = [
     desc: 'The Dog API website is a fun and interactive platform where users can explore, search for, and learn about various dog breeds. It integrates with a public Dog API, allowing users to access real-time information and images of dogs. The site is built using modern frontend technologies and is designed to be visually appealing, user-friendly, and responsive.',
     subdesc:
       'The site fetches data from the Dog API using Axios. The data includes details about various dog breeds, their images, and other interesting facts. These API calls are made dynamically as the user interacts with different features, such as the search bar or breed explorer.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+    href: 'https://breedopedia.netlify.app/',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -101,7 +101,7 @@ export const myProjects = [
     desc: 'A Traveler Website is an online platform that provides various services and information related to travel. It is designed to help users plan, book, and manage their trips more efficiently. A well-structured traveler website typically includes the following key features and sections:',
     subdesc:
       'The website also integrates with maps, provides mobile responsiveness, and supports multiple languages and currencies. Its goal is to provide a seamless, user-friendly experience for travelers, making it easier to explore new destinations and manage all aspects of their travel plans.',
-    href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+    href: 'https://triptreadplay.netlify.app/',
     texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo3.png',
     logoStyle: {
@@ -140,7 +140,7 @@ export const myProjects = [
     desc: 'A 3D Rotating Cube Project is an interactive web application that displays a 3D cube which continuously rotates around its axis. Using technologies like React and three.js, the project enables users to visualize and interact with the cube in a three-dimensional space. The cube can be customized with different textures, colors, and animations.',
     subdesc:
       'This project demonstrates the power of 3D graphics in web development, providing a dynamic and engaging user experience while showcasing skills in frontend development, 3D rendering, and JavaScript programming.',
-    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+    href: 'https://www.youtube.com/watch?v=Y7ucI-sNzcs',
     texture: '/textures/project/project4.mp4',
     logo: '/assets/project-logo4.png',
     logoStyle: {
@@ -177,7 +177,7 @@ export const myProjects = [
     desc: 'A Sandal Shopping Website is an e-commerce platform that allows users to browse, select, and purchase various types of sandals. It includes features like product categories, filters (size, color, material), detailed product descriptions, user reviews, secure payment options, and order tracking.',
     subdesc:
       'The website aims to provide a smooth shopping experience with an intuitive interface for discovering and buying sandals online.',
-    href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+    href: 'https://www.youtube.com/results?search_query=making+shopping+sandal+website+html+css',
     texture: '/textures/project/project5.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
